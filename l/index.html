@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>自动跳转测试页</title>
+</head>
+<body>
+  <h1 id="h1"></h1>
+  <!-- <meta http-equiv="refresh" content="5;url= https://dog194.github.io/ "> -->
+  <script>
+  var i=5;
+  setInterval("t()",1000);
+  
+  function t(){
+    document.getElementById("h1").innerHTML=i + "秒后，将自动跳转";
+    i--;
+    if(i<0){
+      location.replace("https://dog194.github.io/");
+    }
+  }
+  </script>
+</body>
+</html>
