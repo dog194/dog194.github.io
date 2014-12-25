@@ -1,0 +1,565 @@
+
+<!doctype html>
+<html lang="zh">
+<head>
+	<meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+	<title>网页游戏|6711网页游戏平台-精品游戏,畅享快乐尽在6711.com</title>
+	<meta name="Description" content="6711网页游戏平台是中国最大、发展速度最快的游戏运营平台之一，6711网页游戏官网提供最新的热门网页游戏礼包、开服动态、网页游戏攻略大全等；旗下产品涵盖角色扮演、战争策略、休闲竞技、社区养成等热门类型游戏。精品游戏，优质服务，畅享快乐，尽在6711.com！"/>
+	<meta name="Keywords" content="网页游戏,6711最新网页游戏"/>
+	<link rel="stylesheet" href="http://img1.6711img.com/www/css/common.css" />
+	<link rel="stylesheet" href="http://img1.6711img.com/www/css/index.css" />
+</head>
+<body>
+	<div class="header">
+	<div class="wd1000 clearFix">
+		<a href="http://www.6711.com/" class="header-logo left" title="6711网页游戏平台"><h1 class="hidden">6711网页游戏平台</h1></a>
+		<div class="header-search left" id="js-header-search">
+			<div class="header-select-input left">
+				<div class="header-select left">
+					<span>游戏</span>
+					<i></i>
+					<ul>
+						<li><a href="javascript:;">游戏</a></li>
+						<li style="display:none;"><a href="javascript:;">礼包</a></li>
+					</ul>
+				</div>
+				<div class="header-input left">
+					<span>请输入搜索内容</span>
+					<input type="text" />
+				</div>
+			</div>
+			<a href="javascript:;" class="header-submit left"><i></i></a>
+			<div class="header-list"></div>
+		</div>
+		<span class="header-link left">
+			<a href="javascript:;"><i class="i0"></i><span>放到桌面</span></a>
+			<a href="javascript:;"><i class="i1"></i><span>收藏本站</span></a>
+			<a href="javascript:;"><i class="i2"></i><span>设为首页</span></a>
+		</span>
+		<div class="header-game right">
+			<a href="javascript:;" class="header-game-more"><span>更多游戏</span><i></i></a>
+			<div class="header-game-ul clearFix">
+				<ul></ul>
+				<a href="http://game.6711.com" class="more"><span>查看所有游戏&gt;&gt;</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="navigation">
+	<div class="wd1000">
+		<ul class="navigation-list left" id="js-navigation-list">
+			<li><a href="http://www.6711.com" >首页</a></li>
+			<li><a href="http://game.6711.com">游戏</a></li>
+			<li><a href="http://gift.6711.com">礼包</a></li>
+			<li><a href="http://pay.6711.com" target="_blank">充值</a></li>
+			<li><a href="http://kf.6711.com" target="_blank">客服</a></li>
+			<li><a href="http://bbs.6711.com/" target="_blank">论坛</a></li>
+		</ul>
+		<div class="navigation-login right">
+			<a href="http://my.6711.com/" target="_blank" class="a0"><i></i><span>个人中心</span></a>
+			<span>|</span>
+			<a href="javascript:;"><span>登录</span></a>
+			<span>|</span>
+			<a href="javascript:;"><span>注册</span></a>
+		</div>
+	</div>
+</div>
+	<div class="container clearFix">
+		<div class="index-slide">
+			<div class="wd1000">
+				<ul class="index-slide-ul" id="js-index-slide">
+				
+									<li><a href="http://cq.6711.com/" target="_blank"><img src="http://img1.6711img.com/www/css/images/transparent.gif" data-src="http://img2.6711img.com/2014/12/25151128xfVzr.jpg" alt="攻城掠地" data-thumb="http://img2.6711img.com/2014/12/25151144n5qva.jpg" /></a></li>
+									<li><a href="http://huodong.6711.com/zt/platform/2014121601/index.html?t=1111" target="_blank"><img src="http://img1.6711img.com/www/css/images/transparent.gif" data-src="http://img2.6711img.com/2014/12/23235148BmX9J.jpg" alt="6711平台改版" data-thumb="http://img2.6711img.com/2014/12/23235206oTfaU.jpg" /></a></li>
+									<li><a href="http://dts.6711.com/" target="_blank"><img src="http://img1.6711img.com/www/css/images/transparent.gif" data-src="http://img2.6711img.com/2014/12/19182926AF5ax.jpg" alt="大天使之剑" data-thumb="http://img2.6711img.com/2014/12/19182938B9pZq.jpg" /></a></li>
+									<li><a href="http://coc.6711.com/" target="_blank"><img src="http://img1.6711img.com/www/css/images/transparent.gif" data-src="http://img2.6711img.com/2014/12/16203033v1AOF.jpg" alt="权倾天下" data-thumb="http://img2.6711img.com/2014/12/16193723z8F5H.jpg" /></a></li>
+									<li><a href="http://jiuzhou.6711.com/" target="_blank"><img src="http://img1.6711img.com/www/css/images/transparent.gif" data-src="http://img2.6711img.com/2014/12/16193711WUhOb.jpg" alt="九州志" data-thumb="http://img2.6711img.com/2014/12/16193718XBMk8.jpg" /></a></li>
+								</ul>
+			</div>
+		</div>
+		<div class="wd1000 index-wd1000" id="js-index-wd1000">
+			<div class="index clearFix">
+				<div class="left index-left">
+					<div class="user-login block">
+						<div class="title"><span class="tit">用户登录</span></div>
+						<div class="user-login-cont" id="js-user-login-cont">
+							<div class="clearFix">
+								<div class="login-input login-name">
+									<input type="text" value="" />
+									<i></i>
+									<span>用户名</span>
+								</div>
+								<div class="login-input login-password">
+									<input type="password" value="" />
+									<i></i>
+									<span>密码</span>
+								</div>
+								<div class="login-remember">
+									<a href="javascript:;" class="check"><span class="sp"><i class="hover"></i></span><span>下次自动登录</span></a>
+									<a href="http://my.6711.com/?c=findpwd-index" target="_blank" class="right">忘记密码？</a>
+								</div>
+								<div class="login-hint"><span></span></div>
+								<div class="login-submit"><a href="javascript:;">登 &nbsp; 录</a></div>
+								<div class="login-baidu">
+									<a href="http://my.6711.com/?c=other-baidu" target="_blank" class="baidu"><i></i><span>百度通行证登录</span></a>
+									<a href="http://my.6711.com/register.html" class="right" target="_blank">注册帐号</a>
+								</div>
+							</div>
+						</div>
+						<div class="login-image clearFix">
+							
+							<a href="http://cq.6711.com/" target="_blank"><img src="http://img2.6711img.com/2014/12/25151524HgVpb.png" alt="" /></a>
+						</div>
+					</div>
+					<div class="news-notice block">
+						<div class="title"><span class="tit"><h2>新闻公告</h2></span></div>
+						<ul class="news-notice-ul">
+							
+															<li class="em"><a href="http://www.6711.com/ziliao/20141225/2014122517515562.html" target="_blank" title="[传奇霸业]1服12月26日开启">[传奇霸业]1服12月26日开启</a></li>
+															<li><a href="http://www.6711.com/huodong/new_server/index.php?c=new_server&amp;game=dts&amp;server=346" target="_blank" title="[大天使之剑]双线346服12月26日开启">·[大天使之剑]双线346服12月26日开启</a></li>
+															<li><a href="http://www.6711.com/huodong/new_server/index.php?c=new_server&amp;game=gcld&amp;server=361" target="_blank" title="[攻城掠地]双线361服12月26日开启">·[攻城掠地]双线361服12月26日开启</a></li>
+															<li><a href="http://www.6711.com/huodong/new_server/index.php?c=new_server&amp;game=sq&amp;server=494" target="_blank" title="[神曲Ⅱ]双线61服12月26日开启">·[神曲Ⅱ]双线61服12月26日开启</a></li>
+															<li><a href="http://www.6711.com/huodong/new_server/index.php?c=new_server&amp;game=sg&amp;server=252" target="_blank" title="[盛世三国]双线252服12月26日开启">·[盛世三国]双线252服12月26日开启</a></li>
+															<li><a href="http://www.6711.com/astd/news/2014-12/25/2014122517583314.html" target="_blank" title="[傲视天地]双线164服12月26日开启">·[傲视天地]双线164服12月26日开启</a></li>
+													</ul>
+					</div>
+					<div class="new-server block">
+						<div class="title">
+							<span class="tit"><h2>最新开服</h2></span>
+							<div class="right new-server-sel">
+								<i>1/6</i>
+								<a href="javascript:;">&lt;</a> 
+								<a href="javascript:;">&gt;</a>
+							</div>
+						</div>
+            		<div class="new-server-list clearFix" id="js-new-server">
+  
+    <ul class="new-server-ul new-server-ul-0">
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=gcld&server=S361" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/gcld/70x70.gif" alt="攻城掠地" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=gcld&server=S361" target="_blank">攻城掠地</a>
+        <span title="双线361服">双线361服</span>
+      </div>
+      <div class="time">
+                <em>12.26</em><span>15:00</span>
+              </div>
+    </li>
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=sq&server=S494" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/sq/70x70.gif" alt="神曲" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=sq&server=S494" target="_blank">神曲</a>
+        <span title="神曲II61服">神曲II61服</span>
+      </div>
+      <div class="time">
+                <em>12.26</em><span>14:00</span>
+              </div>
+    </li>
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=astd&server=S164" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/astd/70x70.gif" alt="傲视天地" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=astd&server=S164" target="_blank">傲视天地</a>
+        <span title="双线164服">双线164服</span>
+      </div>
+      <div class="time">
+                <em>12.26</em><span>12:00</span>
+              </div>
+    </li>
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=dts&server=S346" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/dts/70x70.gif" alt="大天使之剑" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=dts&server=S346" target="_blank">大天使之剑</a>
+        <span title="双线346服">双线346服</span>
+      </div>
+      <div class="time">
+                <em>12.26</em><span>11:00</span>
+              </div>
+    </li>
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=cq&server=S1" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/cq/70x70.gif" alt="传奇霸业" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=cq&server=S1" target="_blank">传奇霸业</a>
+        <span title="双线1服">双线1服</span>
+      </div>
+      <div class="time">
+                <em>12.26</em><span>11:00</span>
+              </div>
+    </li>
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=dts&server=S345" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/dts/70x70.gif" alt="大天使之剑" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=dts&server=S345" target="_blank">大天使之剑</a>
+        <span title="双线345服">双线345服</span>
+      </div>
+      <div class="time">
+                <em>12.25</em><span>15:00</span>
+              </div>
+    </li>
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=fengyun&server=S115" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/fengyun/70x70.gif" alt="风云无双" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=fengyun&server=S115" target="_blank">风云无双</a>
+        <span title="双线115服">双线115服</span>
+      </div>
+      <div class="time">
+                <em>12.25</em><span>14:00</span>
+              </div>
+    </li>
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=dts&server=S344" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/dts/70x70.gif" alt="大天使之剑" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=dts&server=S344" target="_blank">大天使之剑</a>
+        <span title="双线344服">双线344服</span>
+      </div>
+      <div class="time">
+                <em>12.25</em><span>11:00</span>
+              </div>
+    </li>
+      </ul>
+    <ul class="new-server-ul new-server-ul-1">
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=coc&server=S6" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/coc/70x70.gif" alt="权倾天下" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=coc&server=S6" target="_blank">权倾天下</a>
+        <span title="双线6服">双线6服</span>
+      </div>
+      <div class="time">
+                <em>12.25</em><span>11:00</span>
+              </div>
+    </li>
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=dts&server=S343" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/dts/70x70.gif" alt="大天使之剑" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=dts&server=S343" target="_blank">大天使之剑</a>
+        <span title="双线343服">双线343服</span>
+      </div>
+      <div class="time">
+                <em>12.24</em><span>15:00</span>
+              </div>
+    </li>
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=gcld&server=S360" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/gcld/70x70.gif" alt="攻城掠地" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=gcld&server=S360" target="_blank">攻城掠地</a>
+        <span title="双线360服">双线360服</span>
+      </div>
+      <div class="time">
+                <em>12.24</em><span>15:00</span>
+              </div>
+    </li>
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=aszt&server=S484" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/aszt/70x70.gif" alt="傲视遮天" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=aszt&server=S484" target="_blank">傲视遮天</a>
+        <span title="双线484服">双线484服</span>
+      </div>
+      <div class="time">
+                <em>12.24</em><span>14:00</span>
+              </div>
+    </li>
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=dts&server=S342" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/dts/70x70.gif" alt="大天使之剑" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=dts&server=S342" target="_blank">大天使之剑</a>
+        <span title="双线342服">双线342服</span>
+      </div>
+      <div class="time">
+                <em>12.24</em><span>11:00</span>
+              </div>
+    </li>
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=dts&server=S341" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/dts/70x70.gif" alt="大天使之剑" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=dts&server=S341" target="_blank">大天使之剑</a>
+        <span title="双线341服">双线341服</span>
+      </div>
+      <div class="time">
+                <em>12.23</em><span>15:00</span>
+              </div>
+    </li>
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=wy&server=S269" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/wy/70x70.gif" alt="武易" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=wy&server=S269" target="_blank">武易</a>
+        <span title="双线269服 末日使者">双线269服 末日使者</span>
+      </div>
+      <div class="time">
+                <em>12.23</em><span>13:00</span>
+              </div>
+    </li>
+        <li>
+      <div class="lnav"><i></i><span></span></div>
+      <a href="http://www.6711.com/game_login.html?game=dts&server=S340" target="_blank" class="img"><img src="http://img1.6711img.com/www/images/sets/dts/70x70.gif" alt="大天使之剑" /></a>
+      <div class="cont">
+        <a href="http://www.6711.com/game_login.html?game=dts&server=S340" target="_blank">大天使之剑</a>
+        <span title="双线340服">双线340服</span>
+      </div>
+      <div class="time">
+                <em>12.23</em><span>11:00</span>
+              </div>
+    </li>
+      </ul>
+  </div>
+
+
+					</div>
+					<div class="ser-center block">
+						<div class="title"><span class="tit"><h2>客服中心</h2></span></div>
+						<a href="http://www.6711.com/server.html" target="_blank"><i>在线客服</i></a>
+						<p class="p">客服电话：</p>
+						<p>0553-8116711  或  400-8976711</p>
+						<p class="p">客服传真：</p>
+						<p>020-85166566</p>
+					</div>
+				</div>
+				<div class="right index-right">
+					<div class="qualiy-game">
+						<div class="title"><span class="tit"><h2>精品游戏推荐</h2></span></div>
+						<ul class="qualiy-game-ul clearFix">
+							
+																					<li>
+							<a href="http://dts.6711.com" target="_blank" class="left img"><img src="http://img1.6711img.com/www/images/sets/dts/230x187.jpg" alt="大天使之剑" /></a>
+							<div class="left cont">
+							  <a href="http://dts.6711.com" target="_blank" class="tit">大天使之剑</a>
+							  <span>见证一个新的奇迹！</span>
+							  <span>类别：角色扮演</span>
+							  <div class="start"><a class="a0" href="http://www.6711.com/servers_list_dts.html" data-url="http://dts.6711.com" target="_blank" data-id="83"><span>开始游戏</span><i></i></a></div>
+							</div>
+							</li>
+																												<li>
+							<a href="http://cq.6711.com" target="_blank" class="left img"><img src="http://img1.6711img.com/www/images/sets/cq/230x187.jpg" alt="传奇霸业" /></a>
+							<div class="left cont">
+							  <a href="http://cq.6711.com" target="_blank" class="tit">传奇霸业</a>
+							  <span>传奇回归  极致战斗！</span>
+							  <span>类别：角色扮演</span>
+							  <div class="start"><a class="a0" href="http://www.6711.com/servers_list_cq.html" data-url="http://cq.6711.com" target="_blank" data-id="88"><span>开始游戏</span><i></i></a></div>
+							</div>
+							</li>
+																				</ul>
+					</div>
+					<div class="hot-game">
+						<div class="title">
+							<span class="tit"><h2>热门游戏</h2></span>
+							<a href="http://game.6711.com" target="_blank" class="hot-game-right"><span>更多游戏</span><i></i></a>
+						</div>
+						<ul class="hot-game-ul qualiy-game-ul clearFix" id="js-hot-game-ul">
+							
+																					<li>
+								<a href="http://gcld.6711.com" target="_blank" class="left img"><img src="http://img1.6711img.com/www/images/sets/gcld/150x120.jpg" alt="攻城掠地" /></a>
+								<div class="left cont">
+									<a href="http://gcld.6711.com" target="_blank" class="tit">攻城掠地</a>
+									<span>76279人在玩</span>
+									<div class="start"><a class="a0" href="http://www.6711.com/servers_list_gcld.html" data-url="http://gcld.6711.com" target="_blank" data-id="66"><span>开始游戏</span><i></i></a></div>
+								</div>
+							</li>
+																												<li>
+								<a href="http://coc.6711.com" target="_blank" class="left img"><img src="http://img1.6711img.com/www/images/sets/coc/150x120.jpg" alt="权倾天下" /></a>
+								<div class="left cont">
+									<a href="http://coc.6711.com" target="_blank" class="tit">权倾天下</a>
+									<span>74457人在玩</span>
+									<div class="start"><a class="a0" href="http://www.6711.com/servers_list_coc.html" data-url="http://coc.6711.com" target="_blank" data-id="87"><span>开始游戏</span><i></i></a></div>
+								</div>
+							</li>
+																												<li>
+								<a href="http://jiuzhou.6711.com" target="_blank" class="left img"><img src="http://img1.6711img.com/www/images/sets/jiuzhou/150x120.jpg" alt="九州志" /></a>
+								<div class="left cont">
+									<a href="http://jiuzhou.6711.com" target="_blank" class="tit">九州志</a>
+									<span>77266人在玩</span>
+									<div class="start"><a class="a0" href="http://www.6711.com/servers_list_jiuzhou.html" data-url="http://jiuzhou.6711.com" target="_blank" data-id="85"><span>开始游戏</span><i></i></a></div>
+								</div>
+							</li>
+																												<li>
+								<a href="http://www.6711.com/aszt" target="_blank" class="left img"><img src="http://img1.6711img.com/www/images/sets/aszt/150x120.jpg" alt="傲视遮天" /></a>
+								<div class="left cont">
+									<a href="http://www.6711.com/aszt" target="_blank" class="tit">傲视遮天</a>
+									<span>57734人在玩</span>
+									<div class="start"><a class="a0" href="http://www.6711.com/servers_list_aszt.html" data-url="http://www.6711.com/aszt" target="_blank" data-id="38"><span>开始游戏</span><i></i></a></div>
+								</div>
+							</li>
+																												<li>
+								<a href="http://www.6711.com/sq" target="_blank" class="left img"><img src="http://img1.6711img.com/www/images/sets/sq/150x120.jpg" alt="神曲" /></a>
+								<div class="left cont">
+									<a href="http://www.6711.com/sq" target="_blank" class="tit">神曲</a>
+									<span>239351人在玩</span>
+									<div class="start"><a class="a0" href="http://www.6711.com/servers_list_sq.html" data-url="http://www.6711.com/sq" target="_blank" data-id="45"><span>开始游戏</span><i></i></a></div>
+								</div>
+							</li>
+																												<li>
+								<a href="http://as.6711.com" target="_blank" class="left img"><img src="http://img1.6711img.com/www/images/sets/as/150x120.jpg" alt="傲世九重天" /></a>
+								<div class="left cont">
+									<a href="http://as.6711.com" target="_blank" class="tit">傲世九重天</a>
+									<span>32357人在玩</span>
+									<div class="start"><a class="a0" href="http://www.6711.com/servers_list_as.html" data-url="http://as.6711.com" target="_blank" data-id="84"><span>开始游戏</span><i></i></a></div>
+								</div>
+							</li>
+																												<li>
+								<a href="http://www.6711.com/astd" target="_blank" class="left img"><img src="http://img1.6711img.com/www/images/sets/astd/150x120.jpg" alt="傲视天地" /></a>
+								<div class="left cont">
+									<a href="http://www.6711.com/astd" target="_blank" class="tit">傲视天地</a>
+									<span>119516人在玩</span>
+									<div class="start"><a class="a0" href="http://www.6711.com/servers_list_astd.html" data-url="http://www.6711.com/astd" target="_blank" data-id="6"><span>开始游戏</span><i></i></a></div>
+								</div>
+							</li>
+																												<li>
+								<a href="http://fengyun.6711.com" target="_blank" class="left img"><img src="http://img1.6711img.com/www/images/sets/fengyun/150x120.jpg" alt="风云无双" /></a>
+								<div class="left cont">
+									<a href="http://fengyun.6711.com" target="_blank" class="tit">风云无双</a>
+									<span>47152人在玩</span>
+									<div class="start"><a class="a0" href="http://www.6711.com/servers_list_fengyun.html" data-url="http://fengyun.6711.com" target="_blank" data-id="80"><span>开始游戏</span><i></i></a></div>
+								</div>
+							</li>
+																												<li>
+								<a href="http://wy.6711.com" target="_blank" class="left img"><img src="http://img1.6711img.com/www/images/sets/wy/150x120.jpg" alt="武易" /></a>
+								<div class="left cont">
+									<a href="http://wy.6711.com" target="_blank" class="tit">武易</a>
+									<span>107592人在玩</span>
+									<div class="start"><a class="a0" href="http://www.6711.com/servers_list_wy.html" data-url="http://wy.6711.com" target="_blank" data-id="73"><span>开始游戏</span><i></i></a></div>
+								</div>
+							</li>
+																												<li>
+								<a href="http://www.6711.com/sgh" target="_blank" class="left img"><img src="http://img1.6711img.com/www/images/sets/sgh/150x120.jpg" alt="三国魂" /></a>
+								<div class="left cont">
+									<a href="http://www.6711.com/sgh" target="_blank" class="tit">三国魂</a>
+									<span>26602人在玩</span>
+									<div class="start"><a class="a0" href="http://www.6711.com/servers_list_sgh.html" data-url="http://www.6711.com/sgh" target="_blank" data-id="77"><span>开始游戏</span><i></i></a></div>
+								</div>
+							</li>
+																												<li>
+								<a href="http://lhzs.6711.com" target="_blank" class="left img"><img src="http://img1.6711img.com/www/images/sets/lhzs/150x120.jpg" alt="烈火战神" /></a>
+								<div class="left cont">
+									<a href="http://lhzs.6711.com" target="_blank" class="tit">烈火战神</a>
+									<span>34532人在玩</span>
+									<div class="start"><a class="a0" href="http://www.6711.com/servers_list_lhzs.html" data-url="http://lhzs.6711.com" target="_blank" data-id="59"><span>开始游戏</span><i></i></a></div>
+								</div>
+							</li>
+																												<li>
+								<a href="http://www.6711.com/xy" target="_blank" class="left img"><img src="http://img1.6711img.com/www/images/sets/xy/150x120.jpg" alt="暗黑西游记" /></a>
+								<div class="left cont">
+									<a href="http://www.6711.com/xy" target="_blank" class="tit">暗黑西游记</a>
+									<span>51788人在玩</span>
+									<div class="start"><a class="a0" href="http://www.6711.com/servers_list_xy.html" data-url="http://www.6711.com/xy" target="_blank" data-id="72"><span>开始游戏</span><i></i></a></div>
+								</div>
+							</li>
+																				</ul>
+					</div>
+					<div class="gift-bag">
+						<div class="title"><span class="tit"><h2>超级礼包</h2></span></div>
+						<ul class="gift-bag-ul clearFix">
+							
+																					<li><a href="http://gift.6711.com/?c=index&a=giftDetail&gift_id=157&game_id=83" target="_blank"><img src="http://img2.6711img.com/2014/12/09160106EemkT.jpg" alt="大天使之剑新手礼包" /></a></li>
+																												<li><a href="http://gift.6711.com/?c=index&a=giftDetail&gift_id=183&game_id=87" target="_blank"><img src="http://img2.6711img.com/2014/12/09160121FH6Gf.jpg" alt="权倾天下新手礼包" /></a></li>
+																												<li><a href="http://gift.6711.com/?c=index&a=giftDetail&gift_id=161&game_id=66" target="_blank"><img src="http://img2.6711img.com/2014/12/09160126Z018h.jpg" alt="攻城掠地新手礼包" /></a></li>
+																												<li><a href="http://gift.6711.com/?c=index&a=giftDetail&gift_id=182&game_id=85" target="_blank"><img src="http://img2.6711img.com/2014/12/09160129jmK3P.jpg" alt="九州志新手礼包" /></a></li>
+																				</ul>
+					</div>
+				</div>
+			</div>
+			<div class="index-nav clearFix">
+				<h2 class="hidden">快速链接</h2>
+				<ul>
+					<li><a href="http://my.6711.com/register.html" target="_blank"><i class="i0"></i><span>快速注册</span></a></li>
+					<li><a href="http://kf.6711.com/?c=repair_account&a=add&from=stolen" target="_blank"><i class="i1"></i><span>被盗申诉</span></a></li>
+					<li><a href="http://my.6711.com/?c=security-bindmail" target="_blank"><i class="i2"></i><span>绑定邮箱</span></a></li>
+					<li><a href="http://my.6711.com/?c=findpwd-index" target="_blank"><i class="i3"></i><span>找回密码</span></a></li>
+					<li><a href="http://www.6711.com/jzjh/index.html" target="_blank"><i class="i4"></i><span>家长监护</span></a></li>
+					<li><a href="http://my.6711.com/?c=indulge-index" target="_blank"><i class="i5"></i><span>防沉迷系统</span></a></li>
+				</ul>
+			</div>
+		</div>
+		<a class="kf-block-right" href="http://www.6711.com/server.html" target="_blank" id="js-kv-block"><i></i><span>客服</span></a>
+	</div>
+	<div class="footer clearFix">
+	<div class="wd1000 footer-wrap">
+		<div class="footer-friend">
+			<h2 class="hidden">友情链接</h2>
+			<span class="tit left">友情链接：</span>
+			<div class="cont left">
+				<span>
+					
+										<a href="http://www.37.com" target="_blank">37游戏</a>
+										<a href="http://www.5336.com/" target="_blank">网页游戏开服表</a>
+										<a href="http://news.07073.com/" target="_blank">网页游戏资讯</a>
+										<a href="http://www.8721.com/" target="_blank">手机之家</a>
+										<a href="http://www.wankr.com.cn/" target="_blank">卡牌游戏</a>
+										<a href="http://game.weibo.com/" target="_blank">网页游戏</a>
+										<a href="http://www.996.com/" target="_blank">手机游戏</a>
+										<a href="http://fahao.07073.com/" target="_blank">07073发号</a>
+										<a href="http://www.xskhome.com/" target="_blank">新手卡之家</a>
+										<a href="http://www.laohu.com/" target="_blank">老虎游戏</a>
+										<a href="http://web.uuu9.com/" target="_blank">游久页游</a>
+										<a href="http://www.kaifu.com/" target="_blank">网页游戏开服表</a>
+										<a href="http://www.douxie.cn/" target="_blank">斗蟹网</a>
+										<a href="http://www.mofang.com/" target="_blank">魔方网</a>
+										<a href="http://www.9k9k.com/" target="_blank">9K9K开服表</a>
+										<a href="http://web.yxdown.com/" target="_blank">游迅网</a>
+										<a href="http://www.boxuu.com/" target="_blank">网页游戏</a>
+										<a href="http://www.muu.com.cn/" target="_blank">漫画网</a>
+										<a href="http://www.16sucai.com/" target="_blank">素材中国</a>
+										<a href="http://games.renren.com/" target="_blank">人人游戏</a>
+										<a href="http://down.ali213.net/" target="_blank">单机游戏</a>
+										<a href="http://www.joyme.com/" target="_blank">着迷网</a>
+										<a href="http://www.973.com/" target="_blank">973游戏网</a>
+										<a href="http://www.abab.com/" target="_blank">小游戏大全</a>
+										<a href="http://www.86wan.com/" target="_blank">86wan</a>
+										<a href="http://games.qq.com/web/" target="_blank">腾讯游戏</a>
+									</span>
+			</div>
+		</div>
+		<div class="footer-content clearFix">
+			<a href="http://www.6711.com/" class="footer-logo left" title="6711网页游戏平台"></a>
+			<div class="footer-statement left">
+				<div class="footer-statement clearFix">
+					<span class="tit left">推荐游戏：</span>
+					<div class="cont left">
+						<span>
+							
+														<a href="http://dts.6711.com" target="_blank">大天使之剑</a>
+														<a href="http://coc.6711.com" target="_blank">权倾天下</a>
+														<a href="http://gcld.6711.com" target="_blank">攻城掠地</a>
+														<a href="http://jiuzhou.6711.com" target="_blank">九州志</a>
+														<a href="http://as.6711.com" target="_blank">傲世九重天</a>
+														<a href="http://fengyun.6711.com" target="_blank">风云无双</a>
+														<a href="http://wy.6711.com" target="_blank">武易</a>
+													</span>
+					</div>
+				</div>
+				<p>抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当 适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活</p>
+				<p class="p0">网页游戏新闻  家长监控  客服电话：0553-8116711　安徽尚趣玩网络科技有限公司　<a href="http://www.6711.com/zhengjian/2014/1217/63764.html" target="_blank">软著登字第0613843号</a></p>
+				<p class="p0"><a href="http://www.6711.com/zhengjian/2014/1217/63766.html" target="_blank">增值电信业务经营许可证皖B2-20120073</a>　<a href="http://www.6711.com/zhengjian/2014/1217/63765.html" target="_blank">皖网文[2012]0622-011</a>　<a href="http://www.miitbeian.gov.cn/" target="_blank">皖ICP备12015706号-3</a>　皖公网安备34022102500417号</p>
+			</div>
+			<div class="footer-approve right">
+				<a href="http://210.76.65.188/newwebsite/index.htm" class="a0" target="_blank" title="网络警察"></a>
+				<a href="http://210.76.65.188/webrecord/innernet/Welcome.jsp?bano=4408013012594" class="a1" target="_blank" title="网络安全认证"></a>
+				<a href="http://182.131.21.137/ccnt-apply/admin/business/preview/business-preview!lookUrlRFID.action?main_id=3065CAFAA43340C1B4988DE0C253CEC6" class="a2" target="_blank" title="互联网文化经营单位"></a>
+			</div>
+		</div>
+	</div>
+</div>
+	<script src="http://js.6711img.com/js/common.js" type="text/javascript"></script>
+	<script src="http://js.6711img.com/js/index.js" type="text/javascript"></script>
+	<div style="display: none;">
+	<script type="text/javascript">
+		var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fb4c7055bb72b3e66ee0819b04fa7cc54' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+</div>
+</body>
+</html>
