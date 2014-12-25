@@ -33,99 +33,156 @@
 
 <p></p>
 
-<style>
-span
-{
-margin-top:10px;
-margin-left:10px;
-margin-right:10px;
-font-size:20pt;
-border:1px solid gray;
-padding-top:5px;
-padding-bottom:5px;
-padding-left:10px;
-padding-right:10px;
-background:#fffff0;
-border-width:0 1px 1px 0;
-}
-.span1
-{
-color:red;
-border:none;
-padding:0;
-margin:0;
-background:silver;
-}
-</style>
-</head>
-<body bgcolor="silver" style="margin:0" scroll="no">
-<div align="center" style="font-size:10pt;color:green">时间:<span class="span1" id="spantime">0</span>秒 正确:<span class="span1" id="rig">0</span>个 错误:<span class="span1" id="err">0</span>个 正确率:<span class="span1" id="spanpercent">100%</span> 速度:<span class="span1" id="spanspeed">0</span>个/秒</div>
-<hr><br><br><br>
-<center>
-<span style="color:red;font-weight:bold;font-size:40pt;padding:5px;" id="sys">A</span>
-<!--/-->
-<br><br><br>
-<div align="center" style="border:1px dotted gray;padding:20px;width:600px;">
-<span id="Q">Q</span><span id="W">W</span><span id="E">E</span><span id="R">R</span><span id="T">T</span><span id="Y">Y</span><span id="U">U</span><span id="I">I</span><span id="O">O</span><span id=""></span><br><br><br><br>
-<span id="A">A</span><span id="S">S</span><span id="D">D</span><span id="F">F</span><span id="G">G</span><span id="H">H</span><span id="J">J</span><span id="K">K</span><span id="L">L</span><br><br><br><br>
-<span id="Z">Z</span><span id="X">X</span><span id="C">C</span><span id="V">V</span><span id="B">B</span><span id="N">N</span><span id="M">M</span>
-</div>
-
-<script language="javascript">
-var var1,word,killword,rig02=0,err02=0,num=0,num2=0,numper=0
-function sysword()
-{
-word="QWERTYUIOPLKJHGFDSAZXCVBNM".charAt(Math.floor(Math.random()*26));
-document.getElementById(word).style.background="pink"
-sys.innerText=word;
-}
-sysword()
-
-document.onkeydown=function()
-{
-var1=String.fromCharCode(event.keyCode)
-if(var1==word)
-{
-rig.innerText=(++rig02)
-}
+<body>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+var agt=navigator.userAgent.toLowerCase();
+if (agt.indexOf("mac") != -1)
+var a="\r"; 
 else
-{
-err.innerText=(++err02)
-diverr.style.visibility="visible"
-setTimeout("diverr.style.visibility='hidden'",500)
-
+var a="\n";
+var max=0;
+function tlist() {
+max=tlist.arguments.length;
+for (i=0; i<max; i++)
+this[i]=tlist.arguments[i];
 }
+tl = new tlist(
+"   o"+a+
+"  /|\\"+a+
+" */ \\*        跳舞"+a,
 
-document.getElementById(word).style.background="#fffff0"
-if(/[^A-Z]/g.test(var1))
-{
-alert("请按字母键!");
-}
+"   o_"+a+
+"  \<| *"+a+
+"  *\>\\         跳舞"+a,
+
+"  _o/*"+a+
+" * |"+a+
+"  / \\         跳舞"+a,
+
+" *\o_"+a+
+"  /  *"+a+
+" \<\\           跳舞"+a,
+
+"  _o/*"+a+
+" * |"+a+
+"  / \\         跳舞"+a,
+
+" *\\c/*"+a+
+"   )"+a+
+"  / \>         跳舞"+a,
+
+"     *"+a+
+"  \\__/c"+a+
+"   \> \\*       跳舞"+a,
+
+"   __/"+a+
+"    (o_*"+a+
+"     \\*       跳舞"+a,
+
+"      \\ /"+a+
+"       |"+a+
+"     */o\\*    跳舞"+a,
+
+"       \\_"+a+
+"       ("+a+
+"     */o\\*    跳舞"+a,
+
+"        \<_"+a+
+"      __("+a+
+"     * o|*    跳舞"+a,
+
+"         /_"+a+
+"      __("+a+
+"     * o|*   跳舞"+a,
+
+"         ___"+a+
+"      *\/ \>"+a+
+"       o|*    跳舞"+a,
+
+"        *"+a+
+"       o|_/"+a+
+"      */  \\   跳舞"+a,
+
+"        *"+a+
+"      _o|_"+a+
+"     *   \>\\   跳舞"+a,
+
+"       _o/*"+a+
+"      * |"+a+
+"       / \\    跳舞"+a,
+
+"      *\\o/*"+a+
+"        |"+a+
+"       / \\    跳舞"+a,
+
+"      c/*"+a+
+"      \<\\"+a+
+"      */\\     跳舞"+a,
+
+"      c__"+a+
+"      \<\ *"+a+
+"      */\\     跳舞"+a,
+
+"      c__"+a+
+"      /\ *"+a+
+"     * /\>     跳舞"+a,
+
+"      c/*"+a+
+"     /(__"+a+
+"    * /       跳舞"+a,
+
+"    __o/*"+a+
+"    * (__"+a+
+"      \<       跳舞"+a,
+
+"      __o_"+a+
+"     * /  *"+a+
+"      \<\\      跳舞"+a,
+
+"     *_o_"+a+
+"       | *"+a+
+"      \< \\     跳舞"+a,
+
+"     *_c_*"+a+
+"       |"+a+
+"       \>\\     跳舞"+a,
+
+"     *_c_*"+a+
+"       |__"+a+
+"       \>      跳舞"+a,
+
+"     *_c_*"+a+
+"     __|__"+a+
+"              跳舞"+a,
+
+" "+a+
+"     *_c_*"+a+
+"     __)__    跳舞"+a,
+
+" "+a+
+"     *\\c/*"+a+
+"     __)__    跳舞"+a
+
+);
+var x=0;
+function tick() {
+document.animation.cheerleader.value = " " + a +
+tl[x];
+x++;
+if (x != max)
+setTimeout("tick()", 200);
 else
-{
-document.getElementById(var1).style.background="red";
-sysword();
+x = 0;
 }
-}
-
-document.onkeyup=function()
-{
-document.getElementById(var1).style.background="#fffff0";
-num=rig02+err02
-num2=rig02/num
-num2=num2*100
-num2=Math.round(num2)
-spanpercent.innerText=num2+"%"
-numper=num/vartime
-numper=numper*10
-numper=Math.round(numper)
-numper=numper/10
-spanspeed.innerText=numper
-
-}
-var vartime=0
-setInterval("spantime.innerText=(++vartime)",1000)
+//  End -->
 </script>
+<form name=animation>
+<textarea name=cheerleader rows=5 cols=20></textarea><br>
+<input type=button value="Start Again" onClick = "javascript:tick()">
+</form>
+</body>
+
 
 
 </html>
