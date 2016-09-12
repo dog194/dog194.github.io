@@ -4,61 +4,47 @@
     <title>Lab 2</title>
 </head>
 <body>
-    <table>
-        <tr>
-            <td><h4>ARIES (March 21 - April 20):</h4>
 
-                Someone you meet socially over the next few days will have a huge effect on your aims and ambitions. More importantly they will open your mind to new possibilities and help you to see that your horizons have so far been needlesly limited.
-            </td>
-            <td><h4>TAURUS (April 21 - May 21):</h4>
+<label>Date of first Sunday: </label>
+<input type="number" id="firstSun" min=1 max=7 placeholder="e.g., 5">
 
-                You need to be more aggressive in pursuit of your interests. Both professionally and financially you have been giving more than you have been getting in recent weeks, so now you must turn things round and make sure you get your fair share.
-            </td>
-            <td><h4>GEMINI (May 22 - June 21):</h4>
+<label>Days: </label>
+<input type="number" id="days" min=28 max=31 placeholder="e.g., 30">
 
-                You seem to believe that someone is trying to undermine you. It may not be true but play safe and protect yourself anyway. The most important thing, of course, is that you don’t take anything you are told as gospel. Always check “facts” for yourself.
-            </td>
-            <td><h4>CANCER (June 22 - July 23):</h4>
+<button type="button" onclick="genCal()">Generate Calendar</button><br>
 
-                Be careful what you agree to over the next few days because if you offer an inch some people will take a mile. When making deals that could affect you financially make sure everything is written down and witnessed so it cannot be changed later on.
-            </td>
-        </tr>
-        <tr>
-            <td><h4>LEO (July 24 - Aug. 23):</h4>
-
-                This is an excellent time to be a bit more assertive, especially if you are the kind of Leo who prefers to wait for other people to act before making your own move. Identify what it is you truly desire then go out and get it.
-            </td>
-            <td><h4>VIRGO (Aug. 24 - Sept. 23):</h4>
-
-                You will be rather impatient over the coming week and anyone who does not think or act as quickly as you is likely to get flattened as you come charging through. Try not to alienate everyone though – you still need to keep some people as friends.
-            </td>
-            <td><h4>LIBRA (Sept. 24 - Oct. 23):</h4>
-
-                At some stage over the coming week you will have no choice but to get tough with someone who is making your life difficult for no good reason. Hopefully they will get the message and mend their ways. If not, make it painful for them.
-            </td>
-            <td><h4>SCORPIO (Oct. 24 - Nov. 22):</h4>
-
-                You would like to be friendly, of course, but according to the planets you don’t have the time or the inclination to play the kind of foolish games that others seem to enjoy. Life will be a serious business for you over the next few days.
-            </td>
-        </tr>
-        <tr>
-            <td><h4>SAGITTARIUS (Nov. 23 - Dec. 21):</h4>
-
-                Mars in your sign makes you hugely assertive but because it is at odds with the Sun during the early party of the week you must be careful when dealing with rivals, especially at work. Don’t start fights or feuds for the fun of it.
-            </td>
-            <td><h4>CAPRICORN (Dec. 22 - Jan. 20):</h4>
-
-                There will be times over the next few days when it feels as if everything is running away from you, that you are losing control of everyday events. Don’t worry. It won’t be long before you are back on top of things, so hang in there.
-            </td>
-            <td><h4>AQUARIUS (Jan. 21 - Feb. 19):</h4>
-
-                No matter how independent an Aquarius you happen to be you would be wise to work closely with other people over the next few days. Your latest creative venture is more likely to be a success if you get family and friends involved too.
-            </td>
-            <td><h4>PISCES (Feb. 20 - Mar. 20):</h4>
-
-                At some stage today or tomorrow you will realize that you are putting far more into a relationship than you are getting out of it. That cannot be allowed to continue. Get tough if you have to – sadly it’s the only language some people understand.
-            </td>
-        </tr>
-    </table>    
+    <div class="row" >
+        <div class="col-md-6 col-md-offset-3" id="dynamicCalendar">
+        </div>
+    </div>
 </body>
+
+<script>
+    function genCal() {
+        var firstSun = document.getElementById("firstSun").value;
+        var days = document.getElementById("days").value
+        var dynamicC = document.getElementById("dynamicCalendar");
+        
+        var str = "<table class='table table-striped table-bordered table-hover'><tr>";
+        
+        if (firstSun == 1) firstSun = 8;
+
+        for (var i = firstSun; i<=7; i++)
+        str = str + "<td></td>";
+        
+        for (i = 1; i <= days; i++)
+        str = str + "<td>" + i + </td>;
+        
+        for (var i = 1; i <= days; i++) {
+            if ( (i - firstSun) % 7 == 0) str = str + "</tr><tr>";
+            
+            str = str + "<td>" + i + "</td>";
+        }
+        str = str + "</tr></table>"
+
+        dynamicC.innerHTML = str;
+        
+        
+    }
+</script>
 </html>
