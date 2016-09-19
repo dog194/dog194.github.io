@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <title>Lab 3</title>
+</head>
+<body>
+
+<div id="horoscope"></div>
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script>
+    function fillData(){
+        var horoscopeHeaders = [
+            "ARIES (March 21 - April 20):",
+            "TAURUS (April 21 - May 21):",
+            "GEMINI (May 22 - June 21):",
+            "CANCER (June 22 - July 23):",
+            "LEO (July 24 - Aug. 23):",
+            "VIRGO (Aug. 24 - Sept. 23):",
+            "LIBRA (Sept. 24 - Oct. 23):",
+            "SCORPIO (Oct. 24 - Nov. 22):",
+            "SAGITTARIUS (Nov. 23 - Dec. 21):",
+            "CAPRICORN (Dec. 22 - Jan. 20):",
+            "AQUARIUS (Jan. 21 - Feb. 19):",
+            "PISCES (Feb. 20 - Mar. 20):"
+        ];
+
+        var horoscopeData = [
+            {
+                title: "ARIES (March 21 - April 20):",
+                content: "Take more rest"
+            },
+            {
+                title: "TAURUS (April 21 - May 21):",
+                content: "Drink Water"
+            },
+            {
+                title: "GEMINI (May 22 - June 21):",
+                content: "Sleep earlier"
+            },
+            {
+                title: "CANCER (June 22 - July 23):",
+                content: "Body check"
+            },
+            {
+                title: "LEO (July 24 - Aug. 23):",
+                content: "Watch a movie"
+            },
+            {
+                title: "VIRGO (Aug. 24 - Sept. 23):",
+                content: "Concentrate!!"
+            },
+            {
+                title: "LIBRA (Sept. 24 - Oct. 23):",
+                content: "Don't argue"
+            },
+            {
+                title: "SCORPIO (Oct. 24 - Nov. 22):",
+                content: "Gamble hurts"
+            },
+            {
+                title: "SAGITTARIUS (Nov. 23 - Dec. 21):",
+                content: "talk less, work more"
+            },
+            {
+                title: "CAPRICORN (Dec. 22 - Jan. 20):",
+                content: "Go to park!"
+            },
+            {
+                title: "AQUARIUS (Jan. 21 - Feb. 19):",
+                content: "Go Arts"
+            },
+            {
+                title: "PISCES (Feb. 20 - Mar. 20):",
+                content: "Buy iPhone"
+            }
+        ];
+
+
+        for (var horo of horoscopeData) {
+
+            var str = "<div class='col-xs-12 col-sm-6 col-md-4 col-lg-3'><div class='panel panel-default' style='height:120px'><div class='panel-heading'><h3 class='panel-title'>";
+
+            str = str + horo.title + "</h3></div><div class='panel-body'>";
+
+            str = str + horo.content + "</div></div></div>";
+
+            document.getElementById("horoscope").innerHTML 
+                = document.getElementById("horoscope").innerHTML + str;
+        }
+
+
+    }
+
+    fillData();
+
+</script>
+
+
+</body>
+</html>
