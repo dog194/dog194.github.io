@@ -33,7 +33,7 @@ export default class HelloWorldScene extends Component {
 }
 ViroMaterials.createMaterials({
   grid: {
-    diffuseTexture: require('./res/bg.jpg'),
+    diffuseTexture: require('./res/grid_bg.jpg'),
   },
 });
 
